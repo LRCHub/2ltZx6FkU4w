@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "今日も君の夢を見たんだ",
+  "base_artist": "≒JOY",
+  "createdAt": "2025-12-19T11:49:29.715979Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "今日も君の夢を見たんだ",
+      "artist": "Nearly Equal JOY",
+      "has_synced": false,
+      "path": "select/01_今日も君の夢を見たんだ_Nearly_Equal_JOY.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "今日も君の夢を見たんだ",
+      "artist": "≒JOY",
+      "has_synced": false,
+      "path": "select/pl_01_今日も君の夢を見たんだ_≒JOY.txt"
+    }
+  ]
+}
